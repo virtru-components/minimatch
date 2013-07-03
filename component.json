@@ -1,0 +1,11 @@
+{
+  "name": "minimatch",
+  "repo": "virtru-component/minimatch",
+  "description": "A port node's minimatch to component",
+  "version": "0.2.11",
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
