@@ -1073,7 +1073,7 @@ function regExpEscape (s) {
 }
 
 })( null,
-    this,
-    typeof module === "object" ? module : null,
-    typeof process === "object" ? process.platform : "win32"
+    exports,
+    module,
+    "win32"
   )
